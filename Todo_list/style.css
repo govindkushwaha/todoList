@@ -1,0 +1,35 @@
+body{
+    background-color: #b6f1f1;
+}
+.heading{
+    text-align: center;
+    margin-top: 10px;
+}
+
+label{
+    margin: 5px;
+    font-size: 20px;
+    color: rgb(243, 31, 215);
+    font-weight: 900;
+    font-style: italic;
+}
+.center{
+    display: flex;
+    justify-content: center;
+   margin-top: 5px;
+}
+.form{
+    max-width: 75%;
+    margin: auto;
+}
+
+.table{
+    max-width: 75%;
+    margin: 30px auto;
+}
+
+.logo img{
+    height: 45px;
+    width: 43px;
+    margin-right: 30px;
+}
